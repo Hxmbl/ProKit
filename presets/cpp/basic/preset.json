@@ -1,0 +1,12 @@
+{
+  "name": "C++ basic",
+  "description": "Minimal C++ project with CMake and src/main.cpp.",
+  "tags": ["cpp", "c++", "cli", "app"],
+  "next_steps": [
+    "cd {project_name}",
+    "cmake -S . -B build",
+    "cmake --build build",
+    "./build/{project_name}"
+  ]
+}
+

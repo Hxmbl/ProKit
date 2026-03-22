@@ -1,0 +1,10 @@
+{
+  "name": "C# basic",
+  "description": "Minimal .NET console app targeting net8.0.",
+  "tags": ["csharp", "dotnet", "cli"],
+  "next_steps": [
+    "cd {project_name}",
+    "dotnet run"
+  ]
+}
+

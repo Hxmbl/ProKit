@@ -1,0 +1,10 @@
+{
+  "name": "PHP basic",
+  "description": "Minimal PHP app with public/index.php entrypoint.",
+  "tags": ["php", "web"],
+  "next_steps": [
+    "cd {project_name}",
+    "php -S localhost:8000 -t public"
+  ]
+}
+

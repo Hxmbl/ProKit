@@ -1,0 +1,11 @@
+{
+  "name": "Ruby basic",
+  "description": "Minimal Ruby app with lib/ and bin/{project_name} entrypoint.",
+  "tags": ["ruby", "app", "cli"],
+  "next_steps": [
+    "cd {project_name}",
+    "bundle install --path vendor/bundle",
+    "bin/{project_name}"
+  ]
+}
+

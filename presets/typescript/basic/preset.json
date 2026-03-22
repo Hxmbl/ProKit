@@ -1,0 +1,12 @@
+{
+  "name": "TypeScript basic",
+  "description": "Minimal TypeScript project with build and dev scripts.",
+  "tags": ["typescript", "node", "app"],
+  "next_steps": [
+    "cd {project_name}",
+    "npm init -y",
+    "npm install --save-dev typescript ts-node",
+    "npm run dev"
+  ]
+}
+

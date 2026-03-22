@@ -1,0 +1,6 @@
+{
+  "name": "example/{project_name}",
+  "description": "Generated with ProKit (PHP preset).",
+  "require": {}
+}
+

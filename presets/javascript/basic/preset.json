@@ -1,0 +1,11 @@
+{
+  "name": "JavaScript basic",
+  "description": "Minimal Node.js project with src/index.js entry.",
+  "tags": ["javascript", "node", "app"],
+  "next_steps": [
+    "cd {project_name}",
+    "npm init -y",
+    "npm run start"
+  ]
+}
+

@@ -1,0 +1,10 @@
+{
+  "name": "Go basic",
+  "description": "Minimal Go module with cmd/{project_name} entrypoint.",
+  "tags": ["go", "app", "cli"],
+  "next_steps": [
+    "cd {project_name}",
+    "go run ./cmd/{project_name}"
+  ]
+}
+

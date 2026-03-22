@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void) {
+    printf("Hello from {project_name}!\\n");
+    return 0;
+}
+

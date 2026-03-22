@@ -1,0 +1,11 @@
+{
+  "name": "C basic",
+  "description": "Minimal C project with Makefile and src/main.c.",
+  "tags": ["c", "cli", "app"],
+  "next_steps": [
+    "cd {project_name}",
+    "make",
+    "./{project_name}"
+  ]
+}
+
